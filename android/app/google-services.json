@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "576778565034",
+    "firebase_url": "https://monetize-bf9fe.firebaseio.com",
+    "project_id": "monetize-bf9fe",
+    "storage_bucket": "monetize-bf9fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576778565034:android:0812fea86a8edc90",
+        "android_client_info": {
+          "package_name": "com.monetizeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576778565034-5jmu7th7qucbgog5o8do6t8rf1cg8pms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6DIZrGvH5UVOK6gyzbPEdL9iDGzC19k4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
