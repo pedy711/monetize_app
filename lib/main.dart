@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:monetize_app/pages/ServicesGategoryView.dart';
 
-void main() => runApp(new MyApp());
+void main() => runApp(new MaterialApp(
+  home: new MyApp(),
+  debugShowCheckedModeBanner: false,
+));
+/*
+void main() => runApp(new HomePage());
 
 class MyApp extends StatelessWidget {
   const MyApp();
@@ -67,4 +73,5 @@ class MyHomePage extends StatelessWidget {
           }),
     );
   }
-}
+
+}*/
